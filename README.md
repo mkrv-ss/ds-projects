@@ -1,1 +1,1 @@
-# study-projects
+# Data Science Study Projects
