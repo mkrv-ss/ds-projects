@@ -1,4 +1,4 @@
-# Data Science Study Projects
+# Data Science Projects
 
 | Project | Description | Used libraries |
 |---------|-------------|----------------|
